@@ -1,0 +1,6 @@
+{"level":"info","message":"New user registered: amulya135@gmail.com","timestamp":"2025-03-12T09:33:43.976Z"}
+{"level":"info","message":"User amulya135@gmail.com logged in successfully","timestamp":"2025-03-12T09:35:35.134Z"}
+{"level":"info","message":"User logged out","timestamp":"2025-03-12T09:39:37.898Z"}
+{"level":"error","message":"Forgot password error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-224109ea87esm111950285ad.85 - gsmtp","timestamp":"2025-03-12T09:40:57.360Z"}
+{"level":"error","message":"Forgot password error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-301192657a7sm1270566a91.38 - gsmtp","timestamp":"2025-03-12T09:44:29.204Z"}
+{"level":"info","message":"Password reset email sent to amulya135@gmail.com","timestamp":"2025-03-12T09:48:03.100Z"}
